@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646361325731",
+    "project_id": "ar-2687386-andres-cordoba",
+    "storage_bucket": "ar-2687386-andres-cordoba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646361325731:android:077d8d0fe9f90820361f16",
+        "android_client_info": {
+          "package_name": "co.edu.soysena.ar_2687386_andrescordoba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646361325731-rk7d3o8eqtqjnto9f89pnmo5467s6t1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc6u-vfRTQ02eIhhFLPT1nNW5D5-mVLVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646361325731-rk7d3o8eqtqjnto9f89pnmo5467s6t1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
